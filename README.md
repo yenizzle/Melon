@@ -1,2 +1,2 @@
 # Melon
-This project is 4th project for yenizzle.
+This is 4th project of yenizzle.
